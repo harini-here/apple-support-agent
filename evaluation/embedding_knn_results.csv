@@ -1,0 +1,201 @@
+tweet_id,clean_text,golden_intent,predicted_intent,confidence
+2369428,also the details in the report say: APPLICATION NAME cloudos ERROR authDidNotConnect-loginDidFail but I haven't changed the password .. and was using the autofill feature of Safari .. I did update my iPhone to 11.1.1 yesterday though and it seems to be fine,app_issues,ios_update,0.4310838174439899
+2520758,"updated my iPhone and now all my iTunes music is edited, all explicit is gone. Why???",app_store_itunes,apple_music_media,1.0
+1261295,my idevice keep searching for network and sometimes turned no service after 11.0.3 update. Pls help me out 😔,device_hardware,connectivity,0.5658172031235785
+933315,"You should be embarrassed about the new Podcast app update, which makes the app unusable. The new version of the podcast app 1/",apple_music_media,apple_music_media,1.0
+495155,"Seems like some extension I have installed it blocking the two-factor authentication screen from appearing. I was able to login to the website after opening an Incognito Window (which loads a browser window without the extensions) Like a ""Safe Mode""",apple_id_icloud,screen_display_keyboard,0.5738508522797366
+2590426,I was speaking with a rep about iCloud photo downloading issues. This rep decided to just drop me mid conversation. Can I please have some real help?,apple_id_icloud,apple_id_icloud,1.0
+150046,can you help me with my nan to find her email address for ICloud as she’s lost all of her photos and she’s really really upset about it 😭,apple_id_icloud,apple_id_icloud,1.0
+2947010,"Not intentionally, it might have tried to sync automatically with my computer but that’s on a different Apple ID",apple_id_icloud,apple_id_icloud,0.8621772004082632
+2652650,I hate music. Never works right,apple_music_media,apple_music_media,1.0
+1698580,The reason why I becomes I️. turned the letter I into a fuckin emoji so when you type it your keyboard gets confused,screen_display_keyboard,screen_display_keyboard,1.0
+483250,hi I can’t get my phone to update the apps it keeps saying payment declined even though there are funds available please help,billing_payment_purchase,billing_payment_purchase,0.849180187492719
+1908217,Since released the 8/X/iOS 11. My iPhone6s has been crashing non stop and draining battery life like you read about 🤔 #thefixisin,battery_charging,battery_charging,0.43265078958005093
+1203532,iOS 11.1 (15B92) still won’t download apps,app_store_itunes,app_store_itunes,0.7190418476589349
+2309374,help! I accidentally started updating my phone without connecting it to wifi first. it has been updating for 2.5 hours now. What do I do?,device_hardware,connectivity,0.8608047301922707
+2123836,No. It’s happened consistently regardless of hat I️ do since the most recent software update. My battery used o last until bedtime. My phone has died by noon everyday this week. Terrible.,battery_charging,battery_charging,0.7028565276317845
+1153853,. order fails to arrive as promised. Possibly because they are STILL using the wrong address after THREE corrections. Pshaw!,orders_products_warranty,orders_products_warranty,1.0
+946670,"my AppStore is not working, it doesn’t download apps since I updated iOS.",app_store_itunes,app_store_itunes,1.0
+1581440,When your phone battery drops 25% in 10 mins because #ios11 is fucking terrible,battery_charging,battery_charging,0.8593225565683628
+590921,After update IOS 11.2 application crash,app_issues,ios_update,0.43263100419766237
+2512315,"I'm afraid it happens with pretty much every application I use: Google Chrome, the Microsoft Office Suite, Spotify, Whatsapp, Finder and Calendar. :(",app_issues,app_store_itunes,0.28773742438147304
+1134162,Im having trouble downloading apps it ask me to review my id then its just a white screen,screen_display_keyboard,apple_id_icloud,0.5749903347596353
+1279926,"We have a dead Iphone7 after the recent update, know one knows why or how &amp; of course it’s past it’s warranty!",orders_products_warranty,orders_products_warranty,0.43574812917159955
+328555,why is it my music app won’t work? 6 running 11.0.2. Suddenly started crashing this AM while in use/DLing. Restarted phone. No joy.,apple_music_media,apple_music_media,1.0
+242621,"Yep I’ve done that about 3 times. Left it off for 10 minutes turned it back on, reset all my settings. Deleted the network added it again..",connectivity,connectivity,1.0
+2121093,this update pissing me off man phones cost too much to be tripping like this,device_hardware,performance,0.2917286904433061
+1151865,how many iPhone X can I preorder on Friday?,orders_products_warranty,orders_products_warranty,1.0
+2025772,is there an update coming soon to fix the question mark box? It’s so annoying. And my WiFi turning on by itself also.,connectivity,ios_update,0.5695723449003148
+2210633,Thank you. Can you recommend a website to purchase at good value #airpods #apple #iphone8,billing_payment_purchase,apple_music_media,1.0
+902687,I dont tweet often... any danger of you lot sorting these software updates out? I cant speak on the phone music hay wire!! 😡😡😡,apple_music_media,ios_update,0.4429052554769089
+962687,hello why does apple music keep asking for permission to trust my phone whenever i open the app?,apple_music_media,apple_music_media,1.0
+2297349,"I have the High Sierra version ! It doesn’t crash the application it just ends the call. Now if I don’t open iTunes i can’t forward or rewind a song, I have to be on the app then exit .. it’s just all malfunctioning",app_issues,apple_music_media,0.8557552398750107
+114457,My brand new iPhone X won’t connect to ANY of my devices over bluetooth.,connectivity,device_hardware,0.590526547228914
+2029757,hi i’m trying to to sign in with my apple id but it’s saying that it can’t connect to the server help me out,apple_id_icloud,apple_id_icloud,0.8602212964859262
+1769331,"i rec’d email from Itunes confirming purchase i didn’t make. i think it’s a scam email, where can i forward to find out?",app_store_itunes,app_store_itunes,0.859564796913142
+58832,Did remove #voicemail transcription in iOS 11? It was so useful. I can't seem to get it to appear again. Anyone know how to fix it?,ios_update,ios_update,1.0
+484523,"Since my last #macos update I can't login if the laptop is connected to internet is looking like the ""Windows 95"" way of doing things.",apple_id_icloud,connectivity,0.5719063562787577
+2676074,"since software upgrade, have to turn phone off and on again to get speaker to work, speaker-phone to work! Screen super buggy!",screen_display_keyboard,ios_update,0.562713343474587
+1858231,pressed the link for 3 months free trail. Already charged me???,billing_payment_purchase,billing_payment_purchase,0.8552998917514875
+2061365,"Wirelessly it charges to 100% but through wired connection it only goes to 80%, but after restart it will go up but never to 100%",billing_payment_purchase,battery_charging,0.5714021801561274
+1223952,"The latest update has my iPhone 6 acting wonky;phone and apps freeze, time doesn’t show on home screen. Help pls!",screen_display_keyboard,performance,0.8576081357717423
+61386,What if that application is removed❓ Like Turbo DL,app_issues,performance,0.5673050384252736
+549606,please stop doing updates when it does nothing but lower your battery and cause other problems . My phone keeps resetting and I know it’s because of this update,device_hardware,performance,0.7129527951323474
+1195839,Probably switching providers. Latest update 11.0.3 has MAJORLY slowed down my phone. Many silly commands that have no point.,performance,performance,0.8578230235633627
+2771788,What’s going on I’ve been on my phone a whole 21 minutes and lost 12% battery and 3% in one go!! 😣😣,battery_charging,battery_charging,1.0
+599079,"Nope, it doesn't show up in ""Purchased"" on any of my devices, which is odd because it shows up under Movies in iTunes on my Mac.",billing_payment_purchase,app_store_itunes,0.42815765337557854
+2838711,is my phone trippin’ or does the updated podcast app make it hard af to delete episodes?,apple_music_media,apple_music_media,1.0
+2298609,apps keep crashing after updating ios,ios_update,app_issues,0.5633781845284668
+667056,Yes Battery stopped Ola ratio 1 long duration I do not know the reason Shipping and cable Original Apple charger! ☺️👇🏼,battery_charging,battery_charging,0.8591485244225731
+668539,I find it very frustrating that my perfectly fine 6s keeps freezing and acting up every time I use it now. Not everybody has money to upgrade every single year... don’t give out the new iOS for older phones if it can’t support it fully...,performance,performance,1.0
+2558661,the amount of time I’m being asked to repeatedly sign in to my Apple ID/iCloud on my iPhone seems really abnormal. I’ve also had some really bad iCloud bugs lately. Can you help resolve?,apple_id_icloud,apple_id_icloud,1.0
+195920,"Welp, iOS 11.0.2 has officially ruined my battery. Have charged my iPhone 7 three times today. will 11.0.3 resolve?",billing_payment_purchase,battery_charging,1.0
+518346,"so when trying to use your first generation iPad mini iOS 9.3.5 why can't you download apps that are from that time, also why does it make your apps crash I ain't buying a new iPad just because you take all the old stuff away",app_issues,device_hardware,0.28729657756702365
+1975085,This IOS update is messing up my keyboard.,screen_display_keyboard,screen_display_keyboard,0.8574212770053669
+82004,since I’ve updated to the IOS 11 my battery has been draining to quickly I’ve only been using it for 15 mins&amp; it’s drained,battery_charging,battery_charging,0.856192408188289
+996661,hi why won't my iphone 5 turn on or charge,billing_payment_purchase,battery_charging,0.41349876396147195
+199307,iPhone 6s is officially one year old today... and my Touch ID just randomly stopped working #helpme #forgotallmypasswords,apple_id_icloud,screen_display_keyboard,0.8595294462389088
+718484,Why after iOS11 do I keep getting No Serice problems and Wifi turns itself on. Mobile data stops working a few times a day.,connectivity,connectivity,1.0
+1880347,i am facing a lot of issues after 11.0.3 update. Charging my phone 4 to 5 times a day. Fix this,battery_charging,battery_charging,0.42400091521970323
+1171400,Now the screen is black and it beeps 3 times 😭 i’ve only updated my word and yes but it’s the same with/without :(,screen_display_keyboard,screen_display_keyboard,1.0
+2727112,#iOS11 is so bad!! Pretty laggy and made my phone slow! 3 updates and no improvements! Disappointed!,performance,performance,0.7200783743211341
+1130474,not very happy with IOS 11.0.3 too many crashes and issues 10 was alright. Please check. Cheers.,ios_update,performance,0.43039951541211374
+1831222,is it still possible to arrange the order of your homescreen apps using iTunes after the iOS11 update?,orders_products_warranty,screen_display_keyboard,0.5721914171676142
+2837446,3 iOS updates. Yet my phone issues from the first iOS 11 update still exist. Why does my phone freeze? Why does my lock button no longer work? Why does my phone speaker sporadically work? Why must I reset my phone 2-3 Times a week? All because of the iOS 11 update.,performance,performance,1.0
+295773,Battery life continues to be an issue inspite of follwng the steps provided. First time in 7 years of my usage of iPhone I m facing this,battery_charging,battery_charging,1.0
+2078933,my photos app crashed and deleted half of my pics now they won't upload. The bar keeps going up &amp; down. HELP,app_issues,device_hardware,0.41878739344024063
+118049,"update ios 11.1.2 messed up battery life to just a few hours, screen unresponsive sometimes, overheating and music just stops randomly 😡😡😡😡 IPhone 7 Plus",screen_display_keyboard,battery_charging,0.8591372530700562
+285201,"#iclouddrive isn’t uploading nor downloading any documents, its been 7 hours for me, no Mac and no iOS device is updating it",apple_id_icloud,apple_id_icloud,1.0
+1685191,I tried these steps it’s not getting charged but if I try with different charger then it’s getting charged,billing_payment_purchase,battery_charging,0.862868539732398
+717604,iOS 11.0.2 literally killed the phone function on my iPhone,ios_update,ios_update,0.8564573666631542
+1296833,", make waterproof airpods happen so I can jam in the shower without disturbing the whole house.",apple_music_media,apple_music_media,1.0
+2300185,"hi, I ordered an iPhoneX on release day, and I can't look up the delivery tracking. Do you have some kind of problems with your servers at the moment? Greetings from Germany :)",orders_products_warranty,orders_products_warranty,0.8530382176406396
+1740845,"hi, is there anyway (with proof of death) of getting an AppleID password reset to be able to unlock an iPod, thanks :)",apple_id_icloud,apple_id_icloud,1.0
+2448336,"I have 11.2 public beta 2, my phone randomly freezes up, stops my music, and will reset. On god I was driving earlier with the GPS, and Siri starting speaking gibberish, I looked down and my phone frozen, almost died man.",apple_music_media,performance,1.0
+870302,11.0.3 - it has slowed down and the screen doesn’t rotate sometimes.. sometimes it hangs,performance,screen_display_keyboard,0.43120864594713465
+2062102,"Updated to iOS11..Battery draining,overheating is all what I got.. Thanks #iOS11",battery_charging,battery_charging,1.0
+2523455,WHY TF DOES MY PHONE NOW AUTOMATICALLY TURN ON WIFI AND BLUETOOTH ITS ANNOYING &amp; KILLING MY BATTERY,battery_charging,connectivity,1.0
+2441769,"My App Store app submission has been ""In Review"" for 13 days (App Apple ID 1271464806). How do I inquire what the problem is?",app_store_itunes,app_store_itunes,0.5651922969279807
+2670232,iPhone 7 (iOS 11.0.2) Apple Music app crashes every time I launch it. Restartig the phone doesn’t fix the problem.,app_issues,apple_music_media,1.0
+2909330,I have a new iPhone 7 and the battery is lasting less than 4 hours. What can I do?,battery_charging,battery_charging,1.0
+1756277,"I cant login to report a problem for an app purchase. When I log in it refreshes to the same log in page, issue for 2 days now",billing_payment_purchase,billing_payment_purchase,0.582629451764212
+2686715,why does my battery go down 40% in an hour with this new update !!!,battery_charging,battery_charging,1.0
+320897,iPhone 7 and the one before the new update.,device_hardware,device_hardware,0.5690107419712008
+1916663,So we ignoring the other problems? And it isn’t my WiFi ITS MY PHONE,connectivity,connectivity,1.0
+1807514,why is it that I can't disable my LTE on my iPhone 8 Plus on AT&amp;T without the internet connection cutting out altogether?,connectivity,connectivity,0.7095494736339771
+713387,are you gonna pay for my data bill considering my phone disconnects from WiFi all the time because of the new update?,connectivity,connectivity,0.8629448056566515
+462043,My phone has been straight Trash and constantly freezing/apps crashing since this update WTF,app_issues,performance,1.0
+619470,how the fuck does this happen. The paint has come away but that area the screen is in perfect condition on the surface. Does my 1 year apple warranty cover this type of repair.,screen_display_keyboard,screen_display_keyboard,0.7154772366870806
+523871,your new update iOS 11.1.2 is messing up my battery. Just wanted to let you know the update is killing it faster,ios_update,battery_charging,0.5704678413489352
+1571742,the latest update is driving me crazy. Text message returning keyboard changes are not efficient. Help!,screen_display_keyboard,screen_display_keyboard,0.8616613610143596
+542467,"Anyone else’s iPhone keep going into a black screen with the loading wheel every 40 sec, starting to get me hot no lie",screen_display_keyboard,screen_display_keyboard,0.5726754330968642
+2298578,"my iPhone 6+ rear camera can’t focus, provides blurry images",device_hardware,device_hardware,0.4280255355783073
+2448372,"is it normal that my iPad air 2 loses battery way faster since ios 11 (for the same usage, maybe even lower) and it somehow lost percentage while saying it was charging (it may have been the charger, but my family uses is often) please help/have an update thanks.",billing_payment_purchase,battery_charging,0.857061286663258
+2041124,why is my iPhone saying it's out of memory when I've got plenty on iCloud and not even using half the storage on device?,apple_id_icloud,apple_id_icloud,0.70958763475284
+2446439,IM FUCKING TIRED OF YALL BS . I been a loyal customer since 4th grade . YALL NEED TO MAKE BETTER CHARGERS BCZ THE SHIT IS 👎🏾. ALSO MY PHONE BE TRIPPING LIKE A MF’ . SIS YALL GOTTA DO BETTER . YALL GOT ONE MORE TIME TO MAKE MY PHONE CRASH AND IM REPORTIN YALL 😘,billing_payment_purchase,battery_charging,1.0
+2799477,"#Siri and I have always had issues. I was driving and I told her to call someone. No, she didn’t call the person on the phone. She kept calling out the person’s name over and over and over. She is such a smart aleck.",device_hardware,device_hardware,0.4323797660594133
+2570944,"trying to set up new iphone7 (old one stopped charging). Needs to text me a code to set up but you know, phone not working yet",device_hardware,battery_charging,0.579036144663226
+101269,"I’m currently staying with family and don’t have access to other Bluetooth devices to connect to, unfortunately.",connectivity,connectivity,1.0
+417293,iPhone 6 (iOS 11.0.2) Apple Music app crashes every time I launch it. Restartig the phone doesn’t fix the problem.,app_issues,apple_music_media,1.0
+2145723,so when are y’all going to fix this (I️) problem because I’m getting fed up. The text replacement trick doesn’t even work either.🤬,orders_products_warranty,orders_products_warranty,1.0
+717046,C’est une blague iOS11 mon iPhone est plus lent qu’un 3GS allez vous faire enculé,performance,device_hardware,0.5713891208993117
+2435728,The recent update is a factor of my phone battery dying quicker with no changes in how I use my phone. #UpdateDrainingiPhone,device_hardware,battery_charging,0.8581580905109967
+154412,". Once upon a very recent time (pre-iOS 11), one could clear the App Store cache by tapping any tab in the app 10x. That no longer works. When will be restoring this function?🤔 Thanks!😃👍 #Apple #AppStore",app_store_itunes,app_store_itunes,0.8535399718481452
+250084,when I go to purchase Apple Music I put in my password and says I cannot connect to iTunes Store,billing_payment_purchase,app_store_itunes,0.577568171404092
+2385179,As if all of our iPhones have just gone and decided to fuck up and die on full charge at the same time?,billing_payment_purchase,battery_charging,0.5708283349025267
+1982397,visited UK n India store for repairs.Had a really bad experience in India.Making me pay a hefty amount evn tho it’s under warranty.,orders_products_warranty,orders_products_warranty,0.5745380241012933
+1966608,. Steve would be 😡My iOS still lags and drains battery. Apple is not on the cutting edge anymore. No taste.,performance,battery_charging,0.711858175329307
+848257,Since iOS 11 battery sucks,battery_charging,battery_charging,0.8580035239763785
+2439712,Hey - when is the keyboard glitch in my iOS going to be fixed. #lame,screen_display_keyboard,screen_display_keyboard,0.7179845703566315
+1571745,DMs don’t help . I don’t know why WiFi can’t auto connect to know networks. This is just pain in the socks .,connectivity,connectivity,1.0
+1405514,App crashed when preordered iphoneX and phone is waiting but didn't get reservation #. Phone support hung up on me!,app_issues,orders_products_warranty,0.8605525665381563
+1166714,When are we fixing this iTunes crash? I am unable to sync my music library for a month now :(,apple_music_media,apple_music_media,0.5668562705268256
+1575922,your product to transfer from phone to phone sucks donkey balls. Make a damn app like Samsung. Nobody knows there damn icloud pw!,apple_id_icloud,apple_id_icloud,1.0
+1104753,". iOS 11.0.3 is terrible, can’t access Music through CC, constant freeze, top of safari by hitting top screen. Have a 6s",performance,performance,0.42939382312139646
+2610018,"Oh cool, now it's downloading every episode of every podcast I'm ""subscribed"" to. That won't slow anything down. #iTunesFAIL",performance,apple_music_media,0.8593900197846502
+173000,"Hi, I’m unable to connect via Bluetooth or CarPlay, once it finds the car the phone keeps searching! I’m currently on 11.1.1 but scheduled to run next update tonight. I’ve updated software in the car. A bit frustrating as my husband’s Samsung S7 connected straight away.",connectivity,connectivity,0.7151915969296111
+897711,can customers new to iPhone Upgrade Program get pre-approved prior to X preorders? Or is that just being offered to current?,orders_products_warranty,orders_products_warranty,0.8541569030266445
+2429206,my iPhone 7 won’t turn on for some reason. Put it in recovery mode on iTunes and got error 4005. Help?,app_store_itunes,device_hardware,0.42287479497632613
+98820,"My iPhone X does not have all of my most recent photos stored on iCloud. It does have both ""iCloud Photo Library"" and ""Upload to my Photo Stream"" enabled. Help! I want to see my latest photos...",apple_id_icloud,apple_id_icloud,1.0
+2484177,I have an old itunes -hubby uses-account and a new-I use- family sharing will not meld the 2 different purchase- for years i've asked 4 help- yesterday had terrible phone connection with your techs &amp; horrible tormenting on hold music STILL no answer-please advise :(,apple_music_media,apple_music_media,0.5816743188733919
+766953,I can’t get radio stations to play in iTunes. Any suggestions? Apple Music playlists work.,apple_music_media,app_store_itunes,0.7334746043785043
+898657,downloaded IOS 11.1 update.. no problem ..then get this error message but mini-iPad is connected to Internet ..to finish? 😳,connectivity,ios_update,0.8566518234695959
+1579109,So can you watch 4k films through iTunes on a 5k Mac? Seems a little daft if you can’t. Thx,app_store_itunes,app_store_itunes,0.7050560908015701
+2581954,yo if my phone freeze again I will switch to a sidekick,performance,performance,1.0
+1754168,I just wanna know why my Apple Music is just a black screen when I open it,screen_display_keyboard,apple_music_media,1.0
+97080,"Me too. It’s bloody awful. From 21% to phone switching off, for no reason. Terrible Bluetooth. My phone worked perfectly until the update. It is a lamentable disgrace",device_hardware,connectivity,0.5772666926059686
+2615352,"Wifi bugs still exist on 6S iOS11, cmon fix this",connectivity,connectivity,0.8503034100531525
+2132131,Sound stoped working on #macbookpro touch bar. SMC reset did the trick. #SMSreset #Apple is it normal?,screen_display_keyboard,screen_display_keyboard,0.5642036613955894
+1409153,"Damn tv can’t fit iPad mirroring to the screen, iPad is glitching like crazy connected to Apple TV, iPhone remote app not working 😡😤😡",app_issues,device_hardware,0.4374044919916117
+2804368,Keynote has been crashed when I edit on both iPad air and MacBook Air. Whenever i change slide order. How can I do？ Both OS version is latest one. Also keynote is newly updated one.,orders_products_warranty,screen_display_keyboard,0.2744598965254556
+2481778,"hi, if I should purchase a song from itunes with an active apple music subscription would i be debited",billing_payment_purchase,apple_music_media,0.8597104814441046
+2618385,It's since you released iOS11 that the keyboard covers the text input field .. i need a miracle considering the amount of useless updates you've released 😕,screen_display_keyboard,screen_display_keyboard,0.5696461592061152
+2028671,"It doesn't shut it off completely though, when I'm listening to music on the go it randomly turns on and im not even close to touching home",apple_music_media,apple_music_media,0.7131469056896458
+323812,the new #IOS update has destroyed my #battery! Draining in a matter of hours! I fear a desperate sales tactic! #apple #iphone #help,ios_update,battery_charging,1.0
+148227,after updating IOs 11 my phone is working like a P-1 processor PC. Very Bad experience.,ios_update,ios_update,0.7135539774690307
+2476292,iOS 11 that’s the first time it had froze. And I wasn’t doing anything but on the home screen,ios_update,performance,0.4268591079190142
+2572925,My iPhoneX is not connecting to iCloud. 😬,apple_id_icloud,apple_id_icloud,1.0
+1004450,can you explain why after three software updates my phone is slower and freezes. It never did any of this before,ios_update,performance,1.0
+211214,is there any sort of warranty on the leather iphone cases?,orders_products_warranty,orders_products_warranty,0.5735096053608323
+1524172,It doesn’t allow me to change songs on the lock screen when listening to music. My alarms sound never go off so that’s useless.,apple_music_media,apple_music_media,0.8547782898570419
+2424385,"for the love of god will you please sort your phones out! I mean I’ve got another year and the pictures won’t work, it keeps freezing and your updates are worse than chocolate teapots!! FML!!",performance,performance,0.8600053514342348
+259963,"Yes, because without a daily reboot my iPhone 8 plus would not stable run. I never knew that.",device_hardware,battery_charging,0.29096445519908987
+753573,"No problem I write English. Why does my iPhone 6, since last update 11.0.1, launches automatically WiFi and Bluetooth?",connectivity,connectivity,0.8599705422436343
+299673,I just did. But it says to open itunes to download songs. But when I open itunes it says try iTunes U but there’s no app in sight,app_store_itunes,app_store_itunes,1.0
+386215,"why do I have the iphone x home bar thing, thank u",device_hardware,screen_display_keyboard,0.5752466554023229
+2061371,anyone who wants my attention has to ft me bc my phone hates the update and only tells me if i have snapchats ill kill u,device_hardware,performance,0.5762135124611591
+2408494,Yo my phone is brand fucking new but it’s so lagggy wtf,performance,performance,1.0
+522966,Netflix and iTunes movies not playing audio on new Apple TV 4K. Any help?,app_store_itunes,screen_display_keyboard,0.28668062268913636
+999214,My OEM Volvo head unit does’t read my iPhone after updating to iOS 11. I tried multiple MFi cables. How to fix? It does charge,ios_update,ios_update,0.29812469703252364
+2008399,", phone freezes, apps crash and speaker during voice calls no longer works??? iPhone 7 iOS 11.03 has me thinking Samsung 🤔",app_issues,performance,0.7056115990939343
+188370,"I was not using my iPad for many weeks now, after I charged it, no longer opens. It’s not appearing on iTunes devices.",app_store_itunes,app_store_itunes,0.5751355645695198
+1124374,Hi. I can't install ios 11.0.3 update. I have enough storage on my phone 🤔,ios_update,ios_update,1.0
+2020534,Niggas kick out bread every month on time for y’all not to have y’all shit together I️ need a refund something gotta happen,billing_payment_purchase,billing_payment_purchase,0.7061015112417887
+2314055,Is there no way of adjusting Screen Brightness on iPad Air 2 (IOS 11.0.3) without minimising the open app?,device_hardware,ios_update,0.725258663834523
+1007808,"After the update, my itunes skips songs. Some it plays entirely, others it skips to the next song at random times.",app_store_itunes,app_store_itunes,0.43216630833797404
+2276338,Biggest annoyance at the moment is my music not actually stopping when my headphones are taken out. Amongst various app crashes and my battery life is taking a battering even on low power mode,battery_charging,apple_music_media,0.7130079738573875
+2146686,I know my iCloud storage is full thank you please fix this I️ thing,apple_id_icloud,apple_id_icloud,1.0
+2441837,I think there is a UPS issue with my iPhone X order. It’s been stuck with no delivery date for a week. Any way to help?,orders_products_warranty,orders_products_warranty,0.8579487227703521
+2255431,updated my iPhone 7plus to iOS 11 and it started to switch wifi network and connect to wifi after I turned it off.any ideas?,connectivity,connectivity,0.7066688799434683
+2052011,"Google Maps, other apps freeze on a regular basis after update. Battery life garbage now. Not ok! Solutions?",battery_charging,performance,0.5794252281279682
+1475367,"Hey , iOS 11.1 better contain “bug fixes” for all the horse shit my phone’s been doing the past few days",ios_update,ios_update,1.0
+1086064,will you have the carrier free option available on pre-order day ???,orders_products_warranty,orders_products_warranty,0.8533678861301351
+1281452,. I’m all done with pre-ordering for my #iPhonex upgrade tomorrow. Q is do I still have to get up at 3:01 EST to do it online?,orders_products_warranty,orders_products_warranty,1.0
+2076293,"are you going to do something about this AWFUL software update? My iPhone is lagging too much, applications always crash..",performance,performance,0.7189199035455768
+2923600,"Dear , #iOS11 has completely hosed #CarPlay in my BMW. It continually disconnects, reconnects. Extreme lag &amp; freezing on phone &amp; HUD. Locked up phone to point I had to hard reset. It was fine before moving to iOS11. Unpaired/repaired numerous times. #FixIt 🤬",device_hardware,performance,0.4262043141361906
+1776819,My phone won't update...Keeps saying I'm not connected to the internet but I am,connectivity,connectivity,0.7226227332328028
+1894109,"if my phone freezes one more time, holy fuck",performance,performance,1.0
+1099273,"hey guys the mix new music disappeared why? iOS 11.0.3 and Mac with High Sierra, last version of iTunes.",app_store_itunes,apple_music_media,0.8605551989628306
+1886292,#iTunes is getting on my nerves..how many times you gonna #crash tonight?! please #help your #programs on,app_store_itunes,app_store_itunes,0.714568502886889
+2740754,"I-Phone &amp; Mac Book chargers have packed in today, both less than 6 months old.....Any chance 😞😤",billing_payment_purchase,battery_charging,1.0
+2619950,"I get that, but why does it reflect deleting photos?! I though iCloud was a storage system to keep everything from your phone safe not delete everything you delete from your phone. Seems like it’s a useless application to be honest.",app_issues,apple_id_icloud,1.0
+2084097,"Since I updated my 6S to iOS 11.0.3, my battery is dying much faster. I’ve barely used my phone and it’s at 37%. What’s up?",battery_charging,battery_charging,0.7125586035215568
+1230315,"How i install ios 11 , it says that there ia an error so what is the problem?",ios_update,ios_update,0.8530986702757216
+2547172,"Hello! Does the iPhone have international warranty? If I buy the iPhone in Mexico and has an issue in Netherlands, can I take it to the Apple Store?",orders_products_warranty,billing_payment_purchase,0.5778532419816301
+1582049,where is my delivery? You promised 11/3. Ups will not allow pickup now. Still no response,orders_products_warranty,orders_products_warranty,0.8590856741573623
+1980826,"As much of an fanboy as I am, I have to say iOS 11 has been horrible on my phone: random freezes, phantom peripherals (nothing connected, headphone icon shows up), unusable control center controls (music plays, can only control it in music app), etc.",apple_music_media,performance,0.28860111566822355
+1586252,"since this new update I can’t access podcasts, music, or the App Store. This is ridiculous. Every updated makes it worse.",app_store_itunes,apple_music_media,0.8496043417757451
+1807659,Since upgrade to iOS 11 all my apps update every time I use them. Now on iOS 11.3 same issue. iPhone 6S.,ios_update,ios_update,1.0
+1988236,Is iOS 11.1 suppose to fix bugs? All it did since I️ updated was create bugs!!!! Fix this!,ios_update,ios_update,1.0
+215383,"IPhone 6s. I have the Jabra step 3. They connect to Apple music, even when I have podcasts playing.",apple_music_media,device_hardware,0.5640020908271525
+1977837,more reasons to dislike new apple podcast app - it seems to get stuck while downloading new podcasts quite a lot,apple_music_media,apple_music_media,1.0
+955017,iOS 11.0.3 is crushing my battery. What a joke you’ve become. Never thought after 9 years I’d consider walking away from you,ios_update,battery_charging,0.8573936051129435
+959407,Tell me you're bringing back the possibility to browse my iPhone music library on my Apple Watch in watchOS 4. Please.,apple_music_media,apple_music_media,0.8579734203975254
+2619763,"after i restore my iPhone X and solve freezing issue , i can’t hear any phone calls and they didn’t hear me too .. is it a software issue? Or hardware? because before the restore no problem with that!!",performance,performance,0.7149623707025026
+334137,"I own a 5s having issues after updating to 11.0.2. Overheating,apps crashing, notification center prob etc. Any suggestion ?",app_issues,battery_charging,0.571251260108061
+2517158,my iPhone 8 plus isn’t downloading apps. It stays on the loading circle.. any suggestions?,app_store_itunes,app_store_itunes,0.2999060603298364
+2624906,"iTunes just deleted 1,300+ songs from my library.... wtf! 🤬🤬🤬 thanks",app_store_itunes,app_store_itunes,0.7094253888870936
+2652644,Basically it is the card I het when there is no card to display.Series 3 Watch with OS 4.1 &amp; iPhone 8 with OS 11.1.1.,screen_display_keyboard,ios_update,0.5815482180666458
+2111356,YO CAN YOU GET THIS SCREEN SHOT PREVIEW THING OFF MY PHONE ITS STARTING TO PISS ME OFF,device_hardware,screen_display_keyboard,0.8637470580630071
+2732888,"Dear , your iOS 11 update is a total shit!! My iphone 7 is very slow, and sometimes the screen freezes in some apps!!!!",device_hardware,performance,1.0
+1798984,updated iOS. Now every time I touch my iPad it switches rotation even w rotation lock on. How come? It’s most Annoying,screen_display_keyboard,screen_display_keyboard,0.5908922047265508
+374542,"It has happened twice. Both times, after updating to the latest iOS 11 update. Most recently last night updated and tonight no iCloud Music.",apple_id_icloud,apple_id_icloud,0.7059847699506698
+741035,My screen has been malfunctioning and my phone has been running slow for the past few weeks. What is the reason for this?,performance,performance,0.7185195103474709
+1075410,"11.0.3 it’s running slow. Won’t recognize some of my devices. Won’t sync up with my computer. Says my iMessages are off, when they’re on",performance,performance,0.5673724154360472
+447452,"#ThursdayThoughts: Another fun day on the #ios #Hindenburg. As of lunchtime … 17 app crashes 9 failed launches 4 drop’d calls Battery gauge all over map. Again. I dare #timcook to trying using my #iPhone for just 1 week. Total failure, . You are now GM 1980.",app_issues,battery_charging,0.8546509573791401
+2816413,i have vibrate disabled but my phone still vibrates when i use TouchID to make a purchase in the app store help,billing_payment_purchase,ios_update,0.41881203591909694
+515886,why is my iPhone x so fucking slow im very annoyed.,performance,performance,1.0
+2583162,Might have to make Genius Bar appointment soon too bad my warranty expire today this iOS version is no good,orders_products_warranty,ios_update,0.29839164507316196
+2864838,"No sorry miscommunication, my iTunes music app",apple_music_media,apple_music_media,1.0
+620132,#Bug since last update when alarm goes off it doesn’t ring and restarts my phone. Also wifi keeps turning itself on.What I do?,connectivity,connectivity,0.8593825516925914
+2373308,"A bateria do meu iPhone está ""estufando"" ,entrei no site da dizia pra eu ir na loja,na loja falaram que não sabem o que fazer!! Oiii Apple ajuda aí vai",device_hardware,device_hardware,0.709866561987139
